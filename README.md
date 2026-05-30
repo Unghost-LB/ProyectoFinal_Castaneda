@@ -4,7 +4,7 @@
 ---
  
 ## 🌐 Demo en vivo
-- **Frontend:** [https://castaneda-frontend.vercel.app](https://castaneda-frontend.vercel.app)
+- **Frontend:** [https://proyecto-final-castaneda.vercel.app/](https://proyecto-final-castaneda.vercel.app/)
 - **ms-productos API:** [https://ms-productos-pmew.onrender.com](https://ms-productos-pmew.onrender.com)
 - **ms-pedidos API:** [https://ms-pedidos-yt91.onrender.com](https://ms-pedidos-yt91.onrender.com)
 ---
@@ -79,38 +79,6 @@ castaneda-frontend/
 ├── vercel.json
 └── README.md
 ```
- 
----
- 
-## ⚙️ Configuración local
- 
-1. Clona el repositorio:
-```bash
-git clone https://github.com/TU_USUARIO/castaneda-frontend.git
-cd castaneda-frontend
-```
- 
-2. Copia `.env.example` a `.env` y completa las URLs:
-```env
-VITE_API_PRODUCTOS=https://ms-productos-pmew.onrender.com
-VITE_API_PEDIDOS=https://ms-pedidos-yt91.onrender.com
-```
- 
-3. Instala dependencias e inicia el servidor:
-```bash
-npm install
-npm run dev
-```
- 
----
- 
-## 🚀 Despliegue en Vercel
- 
-1. Sube el proyecto a GitHub
-2. Importa el repositorio en [vercel.com](https://vercel.com)
-3. Agrega las variables de entorno en el dashboard de Vercel
-4. Deploy automático en cada `git push` a `main`
----
  
 ## 🔗 Repositorios relacionados
  
