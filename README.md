@@ -1,8 +1,8 @@
 # 🍪 Sistema de Gestión - Panadería Castañeda 🎄
 ### Proyecto Final — Bootcamp G14 | Desarrollo Fullstack con Java & React
-**Usuario y Contraseña para ingresar al Dashboard: **
- *Usuario:* Admin
- *Contraseña:* Admin-Castañeda
+-**Usuario y Contraseña para ingresar al Dashboard: **
+-*Usuario:* Admin
+-*Contraseña:* Admin-Castañeda
 ---
  
 ## 🌐 Demo en vivo
